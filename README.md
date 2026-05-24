@@ -11,6 +11,9 @@ Implemented AES encryption algorithm using Verilog HDL.
 - mixcolumns.v
 - aes_top.v
 - aes_tb.v
-# AES Encryption using HDL
-## Simulation Waveform
-[waveform](sceenshots/waveform.png)
+## Simulation 
+Simulation performed using ModelSim
+## Output
+Ciphertext generated successfully
+## Waveform
+![waveform](sceenshots/aes project waveform.png)
