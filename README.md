@@ -11,3 +11,6 @@ Implemented AES encryption algorithm using Verilog HDL.
 - mixcolumns.v
 - aes_top.v
 - aes_tb.v
+# AES Encryption using HDL
+## Simulation Waveform
+[waveform](waveform.png)
