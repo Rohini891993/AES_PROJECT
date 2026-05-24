@@ -13,4 +13,4 @@ Implemented AES encryption algorithm using Verilog HDL.
 - aes_tb.v
 # AES Encryption using HDL
 ## Simulation Waveform
-[waveform](waveform.png)
+[waveform](sceenshots/waveform.png)
